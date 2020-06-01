@@ -1,9 +1,9 @@
-.image_info{
+.image{
   height: 120px;
   width: 120px;
   position:absolute;
 }
-.image{
+.image_info{
   height: 120px;
   width: 120px;
   margin_left: 50%;
