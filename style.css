@@ -1,6 +1,6 @@
 .image{
-  height: 120px;
-  width: 120px;
+  height: 100%;
+  width: 100%;
   position:absolute;
 }
 .image_info{
