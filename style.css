@@ -1,11 +1,7 @@
 body{
   background-image:url('image/back.jpg');
 }
-img{
-  display: block;
-  width: 100%;
-  height: auto;
-}
+
 .food{
   width: 900px;
   margin: 0 auto;
