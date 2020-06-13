@@ -1,5 +1,5 @@
 body{
-  background:image/back.jpg;
+  background-image:url('image/back.jpg');
 }
 img{
   display: block;
@@ -33,4 +33,7 @@ img{
 .info:hover{
   -webkit-transition: 500ms;
   opacity: 1;
+}
+.white_text{
+  color:white
 }
