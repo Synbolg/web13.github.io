@@ -1,5 +1,12 @@
 body{
+  font-family: "Noto Sans TC",Roboto, sans-serif;
   background-image:url('image/back.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  height: 100%;
+  margin: 0 auto 0 auto;
 }
 img{
   display: block;
