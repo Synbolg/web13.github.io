@@ -9,6 +9,7 @@ img{
 .food{
   width: 900px;
   margin: 0 auto;
+  float:left;
 }
 .image{
   position: relative;
